@@ -48,5 +48,5 @@
 * [Bitcoin.org](https://bitcoin.org)
 
 ### Projects
-* [Gentlemen's Bank](https://gentlemensbank.xyz)
+* [DecentrAgora](https://decentragora.xyz)
 * [Open S.A.G.E.](https://open-sage.gitbook.io/s-a-g-e/)

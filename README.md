@@ -49,4 +49,5 @@
 
 ### Projects
 * [DecentrAgora](https://decentragora.xyz)
-* [Open S.A.G.E.](https://open-sage.gitbook.io/s-a-g-e/)
+   * Cypher Gen Protocol
+   * [Open S.A.G.E.](https://open-sage.gitbook.io/s-a-g-e/)

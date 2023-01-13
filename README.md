@@ -1,7 +1,5 @@
 # Great Library
 
-## Ancient Greek Philosophy
-
 ## Guides for DeFi, NFTs, Wallets, Smart Contracts & Crypto
 
 

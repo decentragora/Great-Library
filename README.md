@@ -1,5 +1,6 @@
 # Great Library
 
+## Ancient Greek Philosophy
 
 ## Guides for DeFi, NFTs, Wallets, Smart Contracts & Crypto
 
@@ -51,3 +52,5 @@
 * [DecentrAgora](https://decentragora.xyz)
    * Cypher Gen Protocol
    * [Open S.A.G.E.](https://open-sage.gitbook.io/s-a-g-e/)
+   
+

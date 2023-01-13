@@ -2,6 +2,7 @@
 
 ## Guides for DeFi, NFTs, Wallets, Smart Contracts & Crypto
 
+## Ancient Greek Philosophy
 
 ### Crypto
 
